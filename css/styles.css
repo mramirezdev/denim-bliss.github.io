@@ -1780,7 +1780,7 @@
 .page-footer {
   float: left;
   width: 100%;
-  background: #232323;
+  background: #212529;
 }
 @media (max-width: 991px) {
   .page-footer {
@@ -7683,7 +7683,7 @@ body {
   color: #fff !important;
 }
 .header-area.header2 .header-main-sticky .header-main {
-  background: #232323;
+  background: #000000;
   border: none;
 }
 @media (max-width: 543px) {
